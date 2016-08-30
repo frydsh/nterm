@@ -1,0 +1,11 @@
+nterm
+===========
+nterm is a bbs client based on ncurses
+
+Requires: vim,urlview,libconfig,libcdk,libncurses
+
+Usage:
+	nterm forum.byr.edu.cn
+	or if you want auto-login or some advance functions, check nterm.cfg for more details
+	
+sunway - sunwayforever at gmail.com

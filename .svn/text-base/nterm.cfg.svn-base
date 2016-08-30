@@ -1,0 +1,26 @@
+# !!! rename me to ~/.ntermrc
+# once defined in .ntermrc, you could use nterm smth, instead of nterm smth.org
+
+smth:
+{
+host = "smth.org";
+auto_login = 0;
+user = "sunwaybupt";
+passwd = "xxx";
+};
+
+byr:
+{
+host = "forum.byr.edu.cn";
+auto_login = 0;
+user = "sunway";
+passwd = "xxx";
+};
+
+key:
+{
+quit = 0xb;			#C-k, exit
+save = 0x6;			#C-f, open article in vim
+show = 0x16;			#C-v, view url with urlview
+refresh = 0xc;			#C-l, refresh screen
+};

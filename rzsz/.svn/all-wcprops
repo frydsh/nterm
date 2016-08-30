@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/20/trunk/rzsz
+END
+zmodem.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/13/trunk/rzsz/zmodem.h
+END
+zm.c
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/13/trunk/rzsz/zm.c
+END
+lrz.c
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/13/trunk/rzsz/lrz.c
+END
+rbsb.c
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/13/trunk/rzsz/rbsb.c
+END
+lsz.c
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/19/trunk/rzsz/lsz.c
+END
+zmodem.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/20/trunk/rzsz/zmodem.c
+END
+zreadline.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/13/trunk/rzsz/zreadline.c
+END
+crctab.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/13/trunk/rzsz/crctab.c
+END
+canit.c
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/13/trunk/rzsz/canit.c
+END
+zglobal.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/13/trunk/rzsz/zglobal.h
+END

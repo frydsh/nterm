@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 22
+/svn/!svn/ver/23/trunk
+END
+telnet.c
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/23/trunk/telnet.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/20/trunk/README
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/16/trunk/Makefile
+END
+telnet.h
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/14/trunk/telnet.h
+END
+nterm.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/20/trunk/nterm.cfg
+END
+decode.c
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/23/trunk/decode.c
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/20/trunk/AUTHORS
+END
+nterm.c
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/23/trunk/nterm.c
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/20/trunk/COPYING
+END
+decode.h
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/23/trunk/decode.h
+END
+wrapsock.c
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/21/trunk/wrapsock.c
+END
+nterm.h
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/23/trunk/nterm.h
+END
